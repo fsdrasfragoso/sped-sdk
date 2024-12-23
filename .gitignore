@@ -1,0 +1,23 @@
+# Dependências do Composer
+/vendor/
+
+# Configurações locais
+/.env
+/.env.*
+
+# Arquivos do IDE
+.idea/
+.vscode/
+
+# Arquivos de cache
+/storage/framework/cache/
+storage/logs/
+*.log
+
+# Certificados e dados sensíveis
+*.pfx
+*.pem
+
+# Outros
+.DS_Store
+Thumbs.db
